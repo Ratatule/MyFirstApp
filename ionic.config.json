@@ -1,0 +1,8 @@
+{
+  "name": "MyFirtsApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "375fb669"
+}
